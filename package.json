@@ -1,0 +1,22 @@
+{
+  "name": "mywebapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PB3114/mywebapp.git"
+  },
+  "author": "Michael Feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PB3114/mywebapp/issues"
+  },
+  "homepage": "https://github.com/PB3114/mywebapp#readme",
+  "dependencies": {
+    "hyper-express": "^6.5.2"
+  }
+}
